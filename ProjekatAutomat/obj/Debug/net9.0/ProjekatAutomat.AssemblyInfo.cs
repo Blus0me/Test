@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjekatAutomat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebad97d8cf4ee6a09921b57210bf83489b0d8538")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjekatAutomat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjekatAutomat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
